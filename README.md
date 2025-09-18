@@ -74,7 +74,6 @@
 
 <div align="center">
 
-<a href="mailto:wonjun000823@gmail.com"><img src="https://img.shields.io/badge/Email-your--email@example.com-blue?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-your--linkedin--profile-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/wonjun000823@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 </div>
