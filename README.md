@@ -17,7 +17,7 @@
   
 **Backend**
 
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-6DB33F?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-6DB33F?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-4A4A4A?style=for-the-badge&logo=hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/QueryDSL-0095d5?style=for-the-badge&logo=querydsl&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-6DB33F?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-6DB33F?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/C-4A4A4A?style=for-the-badge&logo=c&logoColor=white"/>
 
 **Database**
 
